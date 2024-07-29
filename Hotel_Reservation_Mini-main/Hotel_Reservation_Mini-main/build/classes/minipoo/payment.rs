@@ -1,0 +1,9 @@
+minipoo.banks
+minipoo.mn
+minipoo.details
+minipoo.payment
+minipoo.g
+minipoo.getsall
+minipoo.gate
+minipoo.details$1
+minipoo.room

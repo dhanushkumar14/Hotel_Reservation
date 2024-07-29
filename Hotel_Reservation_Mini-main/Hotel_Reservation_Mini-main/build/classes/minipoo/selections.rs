@@ -1,0 +1,11 @@
+minipoo.head$1
+minipoo.header
+minipoo.selt$1
+minipoo.head$2
+minipoo.mn
+minipoo.fnt$2
+minipoo.fnt$1
+minipoo.selections
+minipoo.head
+minipoo.fnt
+minipoo.selt

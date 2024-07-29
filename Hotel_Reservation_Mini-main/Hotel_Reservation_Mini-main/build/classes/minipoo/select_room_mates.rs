@@ -1,0 +1,11 @@
+minipoo.mn
+minipoo.mate$2
+minipoo.he
+minipoo.mate
+minipoo.room$2
+minipoo.room$1
+minipoo.mate$1
+minipoo.select_room_mates
+minipoo.head
+minipoo.room
+minipoo.selt

@@ -1,0 +1,14 @@
+minipoo.mn
+minipoo.ftnt
+minipoo.fnt$2
+minipoo.fnt$1
+minipoo.reg
+minipoo.Minipoo
+minipoo.reg$3
+minipoo.reg$1
+minipoo.reg$2
+minipoo.fnt
+null
+minipoo.ftnt$1
+minipoo.ftnt$2
+minipoo.general
