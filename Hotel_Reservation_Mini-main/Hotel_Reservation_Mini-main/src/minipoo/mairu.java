@@ -10,7 +10,7 @@ import java.sql.*;
  *
  * @author HP
  */
-public class mairu {
+public class main {
     public static void main(String[] argv)
     {
         try
